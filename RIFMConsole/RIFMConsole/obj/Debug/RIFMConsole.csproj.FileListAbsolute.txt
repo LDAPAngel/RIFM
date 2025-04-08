@@ -1,0 +1,13 @@
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\bin\Debug\RIFMConsole.exe.config
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\bin\Debug\RIFMConsole.exe
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\bin\Debug\RIFMConsole.pdb
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.csproj.AssemblyReference.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.frmCredentials.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.frmMain.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.frmAddEdit.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.frmDefine.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.Properties.Resources.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.csproj.GenerateResource.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.csproj.CoreCompileInputs.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.exe
+Z:\Source\Repos\RestoreFromIFM\RIFMConsole\RIFMConsole\obj\Debug\RIFMConsole.pdb

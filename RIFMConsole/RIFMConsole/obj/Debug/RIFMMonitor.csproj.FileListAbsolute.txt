@@ -1,0 +1,12 @@
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\bin\Debug\RIFMMonitor.exe.config
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\bin\Debug\RIFMMonitor.exe
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\bin\Debug\RIFMMonitor.pdb
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.csproj.AssemblyReference.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.Properties.Resources.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.csproj.GenerateResource.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.csproj.CoreCompileInputs.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.exe
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.pdb
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.frmAddEdit.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.frmDefine.resources
+Z:\Source\Repos\RestoreFromIFM\RIFMMonitor\RIFMMonitor\obj\Debug\RIFMMonitor.frmMain.resources
