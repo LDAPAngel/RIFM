@@ -1,0 +1,12 @@
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\RIFMInternal.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\RIFMInternal.pdb
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\DSInternals.Common.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\DSInternals.DataStore.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\Newtonsoft.Json.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\Esent.Isam.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\bin\Debug\Esent.Interop.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\obj\Debug\RIFMInternal.csproj.AssemblyReference.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\obj\Debug\RIFMInternal.csproj.CoreCompileInputs.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\obj\Debug\RIFMInternal.csproj.CopyComplete
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\obj\Debug\RIFMInternal.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMInternal\RIFMInternal\obj\Debug\RIFMInternal.pdb

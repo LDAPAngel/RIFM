@@ -1,0 +1,13 @@
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\RIFMCore.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\RIFMCore.pdb
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\DSInternals.Common.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\DSInternals.DataStore.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\DSInternals.SAM.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\Newtonsoft.Json.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\Esent.Isam.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\bin\x64\Release\Esent.Interop.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\obj\x64\Release\RIFMCore.csproj.AssemblyReference.cache
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\obj\x64\Release\RIFMCore.csproj.CoreCompileInputs.cache
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\obj\x64\Release\RIFMCore.csproj.CopyComplete
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\obj\x64\Release\RIFMCore.dll
+Z:\Source\Repos\RIFM\RIFMCore\RIFMCore\obj\x64\Release\RIFMCore.pdb

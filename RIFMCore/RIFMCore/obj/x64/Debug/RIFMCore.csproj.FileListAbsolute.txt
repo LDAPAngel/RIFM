@@ -1,0 +1,12 @@
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\RIFMCore.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\RIFMCore.pdb
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\DSInternals.Common.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\DSInternals.DataStore.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\DSInternals.SAM.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\Newtonsoft.Json.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\Esent.Isam.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\bin\x64\Debug\Esent.Interop.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\obj\x64\Debug\RIFMCore.csproj.CoreCompileInputs.cache
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\obj\x64\Debug\RIFMCore.csproj.CopyComplete
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\obj\x64\Debug\RIFMCore.dll
+Z:\Source\Repos\RestoreFromIFM\RIFMCore\RIFMCore\obj\x64\Debug\RIFMCore.pdb

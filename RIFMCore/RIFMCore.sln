@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIFMCore", "RIFMCore\RIFMCore.csproj", "{73A26983-DFE1-460C-8A82-7A8F3A092FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Debug|x64.ActiveCfg = Debug|x64
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Debug|x64.Build.0 = Debug|x64
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Release|x64.ActiveCfg = Release|x64
+		{73A26983-DFE1-460C-8A82-7A8F3A092FD2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0261CF8-1C89-411C-8CE4-51268F13E065}
+	EndGlobalSection
+EndGlobal
